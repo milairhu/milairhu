@@ -1,6 +1,6 @@
-### Hello 👋
+### Welcome 👋
 
-I am Hugo, an IT network student willing to improve my programming skills. 
+I am Hugo, an IT network 💻 student willing to improve my programming skills 	📈. 
 
 Have a look at my favorite coding languages!
 
