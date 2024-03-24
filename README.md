@@ -6,8 +6,6 @@ Have a look at my favorite coding languages!
 
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milairhu&theme=tokyonight)
 
-[![Logo_Linkedin](linkedin.png)](www.linkedin.com/in/hugo-milair) Let's connect on Linkedin
-
 <!--
 **milairhu/milairhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
