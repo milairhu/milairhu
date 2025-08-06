@@ -1,8 +1,6 @@
-### Welcome 👋
+### Hey 👋
 
-I am Hugo, an IT network 💻 student willing to improve my programming skills 	📈. 
-
-Have a look at my favorite coding languages!
+I am Hugo, working on both SRE/Devops and IT Risk Management topics at EVERTRUST.
 
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milairhu&theme=tokyonight)
 
